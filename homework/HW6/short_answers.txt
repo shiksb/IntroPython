@@ -1,0 +1,13 @@
+1)
+fun(25)
+1
+0
+0
+1
+1
+would print the binary representation of 25 in reverse order
+
+2)
+Assuming that y >= 0, this function would return the product of x and y. If y
+were less than 0, then this function would run until the maximum recursive
+depth had been reached.
